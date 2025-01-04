@@ -4,6 +4,9 @@
 
 - Kali Linux
 
+### Observações
+Fiz alguns ajustes no arquivo original, alterando o nome do arquivo txt, sendo assim tambem necessario o ajuste nos arquivos .py
+
 ### Resultados
 
 ![Alt text](arquivooriginal.jpg)
