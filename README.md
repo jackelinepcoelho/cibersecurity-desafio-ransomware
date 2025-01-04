@@ -6,4 +6,4 @@
 
 ### Resultados
 
-![Alt text](arquivo original.jpg)
+![Alt text](arquivooriginal.jpg)
