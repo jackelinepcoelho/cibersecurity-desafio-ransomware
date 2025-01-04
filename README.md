@@ -9,5 +9,5 @@
 ![Alt text](arquivooriginal.jpg)
 
 
-Aqui rodamos a criptografia com o comando 'python3 encrypted.py: 
-![Alt text](criptografia.jpg)
+Aqui rodamos a criptografia: 
+![Alt text](criptografado.jpg)
